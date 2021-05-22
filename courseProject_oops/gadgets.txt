@@ -1,0 +1,10 @@
+41 ear_phone electronics 500 bluetooth 2 sony 25/11/2020
+42 ear_phone electronics 650 without_bluetooth 1 MI 8/05/2021
+43 Mobile electronics 25000 samsung_m50 2 samsung 29/02/2020
+44 Mobile electronics 38000 oneplus_5T 1 one_plus 18/11/2020
+45 Mobile electronics 28000 Samsung_A50 1 samsung 17/03/2020
+46 Mobile electronics 70000 iphone_11 1 Apple 21/05/2020
+47 speakers electronics 1300 without_bluetooth 2 jbl 26/07/2020
+48 speakers electronics 2000 bluetooth 1 realme 18/12/2021
+49 amazon_firestick electronics 5999 voice_remote 1 Amazon 6/08/2020
+50 alexa electronics 4990 smart speaker 1 Amazon 14/06/2019

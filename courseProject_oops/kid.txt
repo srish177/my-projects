@@ -1,0 +1,10 @@
+21 frock clothing 389 brown_colour,cotton 2-3year max 09-07-2021
+22 frock clothing 459 grey_colour,crepe 2-3year max 09-07-2021
+23 night-dress clothing 469 yellow_colour,georgette 2-3year max 10-04-2019
+24 night-dress clothing 400 turquoise_colour,net 2-3year trends 10-04-2019
+25 t-shirt clothing 329 white_colour,rayon 2-3year Adidas 22-09-2020
+26 t-shirt clothing 159 red_colour,synthetic 2-3year trends 01-12-2021
+27 shirt clothing 199 green_colour,wool 2-3year Trends 01-12-2021
+28 shirt clothing 299 navy_blue colour,silk 2-3year nike 06-05-2020
+29 jeans clothing 350 gold_colour,denim 2-3year max 12-11-2021
+30 jacket clothing 600 beige,leather 2-3year trends 17-03-2020

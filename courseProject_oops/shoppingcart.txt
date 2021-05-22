@@ -1,0 +1,6 @@
+1 t-shirt clothing 539 red_colour,cotton 1
+12 lehenga clothing 4599 pink_colour,semi-stiched 1
+22 frock clothing 459 grey_colour,crepe 1
+32 TV electronics 45000 36_inch,androidTV 1
+42 ear_phone electronics 650 without_bluetooth 1
+1 t-shirt clothing 539 red_colour,cotton 1

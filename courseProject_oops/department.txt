@@ -1,0 +1,2 @@
+1 clothing men,women,kids
+2 electronics homeappliances,gadgets

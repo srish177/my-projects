@@ -1,0 +1,10 @@
+31 TV electronics 60000 32_inch,smartTV 2 sony 09/10/2020
+32 TV electronics 45000 36_inch,androidTV 2 MI 18/06/2021
+33 TV electronics 75000 40_inch,androidTV 3 samsung 26/02/2019
+34 TV electronics 80000 32_inch,smartTV 1 toshiba 19/11/2020
+35 refrigerator electronics 15490 double_door 1 whirlpool 27/03/2020
+36 refrigerator electronics 11900 single_door 1 LG 31/05/2020
+37 washing_machine electronics 21900 Front_load-6kg 1 samsung 29/02/2020
+38 washing_machine electronics 15000 Top_load-6kg 1 IFB 13/12/2021
+39 Chimney electronics 12400 Auto_clean_touch_techno 1 Faber 01/08/2020
+40 Microwave electronics 9790 Convection_microwaves 1 Panasonic 04/06/2019

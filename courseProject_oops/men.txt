@@ -1,0 +1,10 @@
+1 t-shirt clothing 539 red_colour,cotton M Crocodile 09-07-2021
+2 t-shirt clothing 600 aquarius_colour,cotton L Nike 10-04-2019
+3 t-shirt clothing 470 red_colour,cotton XL Bufalo 22-09-2020
+4 shirt clothing 699 pink_colour,silk M POLO 01-12-2021
+5 shirt clothing 799 navy_blue_colour,Khadi L POLO 06-05-2020
+6 shirt clothing 549 red_colour,denim XL POLO 12-11-2021
+7 shirt clothing 249 purple_colour,denim L POLO 12-01-2021
+8 jeans clothing 929 blue,loose_fit 30 Pepe 17-03-2020
+9 jeans clothing 799 black,skinny_fit 30 levis 31-01-2019
+10 jeans clothing 599 blue,slim_fit 30 lee_cooper 29-02-2020

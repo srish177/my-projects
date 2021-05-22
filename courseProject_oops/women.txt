@@ -1,0 +1,10 @@
+11 lehenga clothing 3899 pink_colour,semi-stiched free_size soch 09-07-2021
+12 lehenga clothing 4599 pink_colour,semi-stiched free_size soch 09-07-2021
+13 anarkali clothing 4699 yellow_colour,stiched L dressvilla 10-04-2019
+14 anarkali clothing 3999 yellow_colour,stiched M dressvilla 10-04-2019
+15 t-shirt clothing 400 white_colour,cotton M Adidas 22-09-2020
+16 shirt clothing 549 red_colour,silk XL zudio 01-12-2021
+17 shirt clothing 399 purple_colour,cotton L Trends 01-12-2021
+18 jeans clothing 799 navy_blue_colour,denim 34 Zara 06-05-2020
+19 jeans clothing 549 red_colour,denim 28 amari_west 12-11-2021
+20 jeans clothing 929 blue,loose fit 30 Levis 17-03-2020

@@ -1,0 +1,9 @@
+
+4.5	43500	hp    seller3		snehaa
+4.5	43500	hp    seller3		snehaa
+4.5	43500	hp    seller3		snehaa
+4.5	43500	hp    seller3		snehaa
+4.5	43500	hp    seller3		snehaa
+3.5	45999	dell1    seller1		snehaa
+3.5	45999	dell1    seller1		snehaa
+3.5	45999	dell1    seller1		snehaa

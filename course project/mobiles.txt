@@ -1,5 +1,0 @@
-4.6    19000    Samsung mobile    seller1
-3.2    23000    sony mobile    seller1
-2.8    1000     redmi mobile    seller3
-4.7    22000	Realme mobile    seller2
-5.0    33000	OnePlus mobile    seller2

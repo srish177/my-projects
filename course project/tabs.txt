@@ -1,3 +1,0 @@
-3.4	15000	apple tab    seller1
-4.5	19000	fitbit tab    seller2
-4.8	23000	samsung tab    seller3

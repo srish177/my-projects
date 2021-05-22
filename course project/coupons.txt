@@ -1,8 +1,0 @@
-1    coupon1    
-2    coupon2    
-3    coupon3    
-4    coupon4    
-5    coupon5    
-6    coupon6    
-7    coupon7    
-8    coupon8

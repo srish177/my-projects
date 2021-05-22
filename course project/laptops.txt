@@ -1,5 +1,0 @@
-3.2	20000	dell laptop    seller1
-4.7	21000	hp laptop    seller2
-5.0	35000	asus laptop    seller3
-3.5	45999	dell1    seller1
-4.5	43500	hp    seller3
